@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ugonadia
-- 👀 I’m interested in 
+- 👀 I’m interested in JS, Pythoon and React
 - 🌱 I’m currently learning to be a full stack engineer 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web developemnt projects
 - 📫 How to reach me uozoeze@gmail.com
 
 <!---
