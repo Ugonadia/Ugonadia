@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ugonadia
-- 👀 I’m interested in JS, Pythoon and React
+- 👋 Hi, I’m Ugo
+- 👀 I’m interested in JS, Python and React
 - 🌱 I’m currently learning to be a full stack engineer 
 - 💞️ I’m looking to collaborate on web developemnt projects
 - 📫 How to reach me uozoeze@gmail.com
