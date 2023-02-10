@@ -1,5 +1,5 @@
 
-<h1>👋 Hi, I’m Ugo<h1>
+- 👋 Hi, I’m Ugo
 - 👀 I’m interested in JS, Python and React
 - 🌱 I’m currently learning to be a full stack engineer
 - 💞️ I’m looking to collaborate on web developemnt projects
@@ -7,6 +7,7 @@
 
 
  ![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugonadia&show_icons=true&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugonadia)](https://github.com/anuraghazra/github-readme-stats)
  
 <!---
 Ugonadia/Ugonadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
