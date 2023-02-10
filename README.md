@@ -12,11 +12,12 @@
 [<img align="left" alt="ugoozoeze | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="ugoozoeze | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Facebook]
 
-
 <br />
 
  ![Ugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugonadia&show_icons=true&theme=transparent)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugonadia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
  
 [website]: http://ugonadia.github.io/
 [medium]: https://medium.com/@ugoozoeze/
